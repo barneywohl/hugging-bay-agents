@@ -1,0 +1,20 @@
+{
+  "name": "hugging-bay",
+  "owner": {
+    "name": "Hugging Bay",
+    "url": "https://huggingbay.xyz"
+  },
+  "metadata": {
+    "description": "Open models for agents: find one that fits, get the exact file.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "hugging-bay",
+      "source": "./plugins/hugging-bay",
+      "description": "Find an open model that fits this machine and get the exact file, size and SHA-256. No key.",
+      "version": "0.1.0",
+      "category": "development"
+    }
+  ]
+}

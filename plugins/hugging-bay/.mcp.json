@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hugging-bay": {
+      "type": "http",
+      "url": "https://huggingbay.xyz/api/mcp?profile=agent&src=pack-claude"
+    }
+  }
+}

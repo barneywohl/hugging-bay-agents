@@ -1,0 +1,4 @@
+# >>> hugging-bay >>>
+[mcp_servers.hugging-bay]
+url = "https://huggingbay.xyz/api/mcp?profile=agent&src=pack-codex"
+# <<< hugging-bay <<<

@@ -1,0 +1,19 @@
+{
+  "name": "hugging-bay",
+  "version": "0.1.0",
+  "description": "Find an open model that fits this machine and get the exact file, size and SHA-256. No key.",
+  "author": {
+    "name": "Hugging Bay",
+    "url": "https://huggingbay.xyz"
+  },
+  "homepage": "https://huggingbay.xyz",
+  "license": "MIT",
+  "keywords": [
+    "local-llm",
+    "gguf",
+    "ollama",
+    "llama.cpp",
+    "models",
+    "mcp"
+  ]
+}
