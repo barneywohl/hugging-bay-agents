@@ -22,7 +22,7 @@ Or pick one.
 **Codex**
 
 ```sh
-codex mcp add hugging-bay --url https://huggingbay.xyz/api/mcp?profile=agent&src=pack-codex
+codex mcp add hugging-bay --url "https://huggingbay.xyz/api/mcp?profile=agent&src=pack-codex"
 mkdir -p ~/.agents/skills/hugging-bay-local-models
 curl -fsSL https://raw.githubusercontent.com/barneywohl/hugging-bay-agents/main/codex/skills/hugging-bay-local-models/SKILL.md -o ~/.agents/skills/hugging-bay-local-models/SKILL.md
 ```
